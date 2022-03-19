@@ -6,6 +6,7 @@ Com esse projeto você podera modificar o "Windows Terminal", que inclusive não
 #### Downloads
 - [Windows Terminal](https://www.microsoft.com/pt-br/p/windows-terminal/9n0dx20hk701)
 - [Powershell](https://www.microsoft.com/pt-br/p/powershell/9mz1snwt0n5d)
+- [Vídeo Tutorial/Créditos](https://youtu.be/5-aK2_WwrmM)
 
 #### Comandos para clonar repositório com GIT.
 ```
